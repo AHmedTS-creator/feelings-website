@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Feelings</title>
+</head>
+<body style="font-family: Arial; text-align: center; background-color:rgb(96, 129, 108);">
+
+    <h1>مرحباً بك في موقع المشاعر</h1>
+   <img src="main.jpg" alt="Feelings Image" style="width: 300px; height: 200px; border-radius: 10px;">
+
+   
+    <ul style="list-style-type: none; padding: 0; text-align: right;">
+        <p><b>: اختر الشعور الذي تريد استكشافه</b></p>
+        <bdo dir="ltr">
+    <style="font-size: 40px; color: white;"><b>
+        <li><a href="happy.html">😊 الفرح</a></li>
+        <li><a href="sad.html">😢 الحزن</a></li>
+        <li><a href="angry.html">😡 الغضب</a></li>
+        <li><a href="love.html">❤️ الحب</a></li>
+        <li><a href="fear.html">😨 الخوف</a></li>
+        </b></style>
+        </bdo>
+        
+    </ul>
+
+</body>
+</html>
+
+
